@@ -91,7 +91,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/KshitijShresth29/KshitijShresth29/blob/main/snake.svg" alt="Snake animation" />
 
 
 ###
