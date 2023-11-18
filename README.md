@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm Kshitij</h3>
+d<h3 align="center">Hi, I'm Kshitij</h3>
 
 ###
 
@@ -79,7 +79,7 @@
   <a href="https://www.linkedin.com/in/kshitijshresth/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="30" alt="linkedin logo"  />
   </a>
-  <a href="discordapp.com/users/1exedra" target="_blank">
+  <a href="discordapp.com/users/exedreye" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="30" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/1exedra/?hl=en-gb" target="_blank">
