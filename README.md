@@ -1,4 +1,4 @@
-d<h3 align="center">Hi, I'm Kshitij</h3>
+<h3 align="center">Hi, I'm Kshitij</h3>
 
 ###
 
