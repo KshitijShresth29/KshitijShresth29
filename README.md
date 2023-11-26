@@ -91,6 +91,6 @@
 
 <br clear="both">
 
-<!--
-<a href="https://app.daily.dev/1exedra"><img src="https://api.daily.dev/devcards/608fbe1f239c44379192b25a235f2eb2.png?r=1zc" width="400" alt="Kshitij Shresth's Dev Card"/></a> -->
+
+<a href="https://app.daily.dev/1exedra"><img src="https://api.daily.dev/devcards/608fbe1f239c44379192b25a235f2eb2.png?r=1zc" width="400" alt="Kshitij Shresth's Dev Card"/></a> 
 ###
