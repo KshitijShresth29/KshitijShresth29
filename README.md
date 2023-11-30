@@ -92,6 +92,6 @@
 <br clear="both">
 
 
-<a href="https://app.daily.dev/1exedra"><img src="https://api.daily.dev/devcards/608fbe1f239c44379192b25a235f2eb2.png?r=1zc" width="300" alt="Kshitij Shresth's Dev Card"/></a> 
+<a href="https://app.daily.dev/1exedra"><img src="https://api.daily.dev/devcards/608fbe1f239c44379192b25a235f2eb2.png?r=1zc" width="450" alt="Kshitij Shresth's Dev Card"/></a> 
 [![An image of @kshitijshresth29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kshitijshresth29)](https://holopin.io/@kshitijshresth29)
 ###
